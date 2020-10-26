@@ -1,0 +1,60 @@
+@import "_variables.scss";
+
+@mixin f-s {
+  font-size: 16px;
+
+  &:hover {
+    background-color: $theLightestViolet;
+  }
+}
+
+.usersPage {
+  height: 100%;
+  width: 100%;
+  padding: 10%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: rgb(242,242,242);
+
+  .backBtn {
+    height: 50px;
+    width: 300px;
+    border: none;
+    background-color: $lightViolet;
+    box-shadow: 5px 5px 10px 0px $violet;
+    color: $white;
+
+    &:hover {
+      background-color: $violet;
+    }
+  }
+
+  .rowTable {
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .rowName {
+      @include f-s;
+      width: 400px;
+    }
+    .rowAge {
+      @include f-s;
+      width: 200px;
+    }
+    .rowLoc {
+      @include f-s;
+      width: 500px;
+    }
+  }
+
+  .rowBtn {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+}
