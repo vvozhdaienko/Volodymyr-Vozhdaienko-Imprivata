@@ -1,0 +1,26 @@
+@import '_variables.scss';
+
+.main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(242,242,242);
+
+  .showUsersBtn {
+    height: 200px;
+    width: 330px;
+    font-family: 'Krona One', sans-serif;
+    font-size: 23px;
+    background-color: $lightViolet;
+    color: $white;
+    border: none;
+    border-radius: 13px;
+    box-shadow: 10px 10px 10px 0px $violet;
+    &:hover {
+      background-color: $violet;
+      border-color: $violet;
+    }
+  }
+}
