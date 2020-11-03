@@ -9,7 +9,7 @@ export default function Home() {
             <Link href="/users">
                 <a>
                     <Button className={styles.showUsersBtn}>
-                        Show users list
+                        Show list of users
                     </Button>
                 </a>
             </Link>

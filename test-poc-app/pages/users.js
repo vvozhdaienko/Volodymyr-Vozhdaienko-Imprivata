@@ -1,35 +1,35 @@
-import React from "react";
+import React, {useEffect} from "react";
 import {Table, Button, Row} from 'antd';
 import Link from "next/link";
-import { data } from './api/users_list'
 import 'antd/dist/antd.css';
 import styles from '../styles/Users.module.scss'
 
-const columns = [
-    {
-        title: 'Name',
-        dataIndex: 'name',
-        key: 'name',
-        align: 'center',
-        className: styles.rowName,
-    },
-    {
-        title: 'Age',
-        dataIndex: 'age',
-        key: 'age',
-        align: 'center',
-        className: styles.rowAge,
-    },
-    {
-        title: 'Address',
-        dataIndex: 'address',
-        key: 'address',
-        className: styles.rowLoc,
-        align: 'center',
-    },
-];
+export default function Users ({data}) {
 
-export default function Users () {
+    const columns = [
+        {
+            title: 'ID',
+            dataIndex: 'userId',
+            key: 'userId',
+            align: 'center',
+            className: styles.rowName,
+        },
+        {
+            title: 'First Name',
+            dataIndex: 'firstName',
+            key: 'firstName',
+            align: 'center',
+            className: styles.rowAge,
+        },
+        {
+            title: 'Last Name',
+            dataIndex: 'lastName',
+            key: 'lastName',
+            className: styles.rowLoc,
+            align: 'center',
+        },
+    ];
+
     return (
         <div className={styles.usersPage}>
             <Row className={styles.rowTable}>
@@ -46,5 +46,13 @@ export default function Users () {
             </Row>
         </div>
     );
+}
+
+export async function getServerSideProps() {
+    const response = await fetch('http://merlin-demo.us-east-2.elasticbeanstalk.com/user/users');
+    const data = await response.json();
+    return {
+        props: {data},
+    }
 }
 
