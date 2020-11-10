@@ -19,24 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a965d4-c6f9-46a2-bdac-c99bc70b95f2" name="Default Changelist" comment="start work with passport and SAML">
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0038379ef710a79808e4a3497e087661.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/acc02a2e5bbb63ae93ced77b38a6a05a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b350ff456ab3c90df24365bc49262f4d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/fa47d2e68379f5a4c2bbdf3a2be061a2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/webpack/562eac587803b5f3f4a0.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/webpack/68145c9a38c47a7edc1a.hot-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/webpack/68145c9a38c47a7edc1a.hot-update.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/static/webpack/pages/_app.562eac587803b5f3f4a0.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+    <list default="true" id="57a965d4-c6f9-46a2-bdac-c99bc70b95f2" name="Default Changelist" comment="finish proj with passport and SAML">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +89,7 @@
       <workItem from="1604510422068" duration="57000" />
       <workItem from="1604589874596" duration="29000" />
       <workItem from="1605003732227" duration="8203000" />
-      <workItem from="1605019235620" duration="1727000" />
+      <workItem from="1605019235620" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="start work with passport and SAML">
       <created>1605018865286</created>
@@ -121,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605018981738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish proj with passport and SAML">
+      <created>1605021211685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605021211685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +133,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start work with passport and SAML" />
-    <option name="LAST_COMMIT_MESSAGE" value="start work with passport and SAML" />
+    <MESSAGE value="finish proj with passport and SAML" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish proj with passport and SAML" />
   </component>
   <component name="WindowStateProjectService">
     <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605009951859">
@@ -153,26 +145,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604589902250" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605020810811">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605020975919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605020810811" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1605020810811">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1605020975919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605020810811" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1605020810811">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1605020975919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605020810811" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1605020810811">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1605020975919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605020810811" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605018988380">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605021233003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605018988380" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605021233003" />
     <state x="475" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604589887573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
