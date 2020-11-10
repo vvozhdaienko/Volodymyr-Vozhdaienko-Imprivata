@@ -38,9 +38,11 @@ class MyApp extends App {
                     <title>Thoughts!</title>
                 </Head>
                 <Navbar user={this.state.user} />
+                <Container>
                     <Jumbotron>
                         <Component {...props} />
                     </Jumbotron>
+                </Container>
             </NextContainer>
         );
     }

@@ -19,7 +19,7 @@ const handle = app.getRequestHandler();
 app.prepare().then(() => {
     const server = express();
 
-    // 2 - add session management to Express
+    // 2 -
     const sessionConfig = {
         secret: uid.sync(18),
         cookie: {
