@@ -4,10 +4,11 @@ import Head from "next/head";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Navbar from "../components/Navbar";
+import {PageProps, PageState} from "../interfaces/App";
 
-class MyApp extends App {
+class MyApp extends App <PageProps, PageState> {
     static async getInitialProps({ Component, ctx }) {
-        let pageProps = {};
+        let pageProps: PageProps;
         if (Component.getInitialProps) {
             pageProps = await Component.getInitialProps(ctx);
         }

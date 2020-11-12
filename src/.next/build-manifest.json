@@ -33,11 +33,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/profile.js"
-    ],
-    "/share-thought": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/share-thought.js"
     ]
   },
   "ampFirstPages": []

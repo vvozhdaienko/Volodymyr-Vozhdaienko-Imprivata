@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import {PropsUser} from "../interfaces/PropsUser";
 
 const Picture = styled.img`
   border-radius: 50%;
@@ -7,7 +8,7 @@ const Picture = styled.img`
   width: 100px;
 `;
 
-function Profile({ user }) {
+function Profile({ user }: PropsUser) {
     return (
         <div>
             <h2>
