@@ -7,6 +7,8 @@ import Navbar from "../components/Navbar";
 import {PageProps, PageState} from "../interfaces/App";
 
 class MyApp extends App <PageProps, PageState> {
+    state: PageState;
+
     static async getInitialProps({ Component, ctx }) {
         let pageProps: PageProps;
         if (Component.getInitialProps) {
@@ -26,6 +28,7 @@ class MyApp extends App <PageProps, PageState> {
     }
 
     render() {
+        console.log(this.state);
         const { Component, pageProps } = this.props;
 
         const props = {
