@@ -20,7 +20,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a965d4-c6f9-46a2-bdac-c99bc70b95f2" name="Default Changelist" comment="finish proj with passport and SAML">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/030c0e3006af6159aacaccbe5be4b27c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/094eee3d8e1b955e8019c3ab2d31fa77.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0df76d2a61a1ce979d1fe3dff6e1a90c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/1b2c1b487f2bd75ed6fcc3b39db7be83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/84c1644be18a5fdf66a6e718262356e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/87d99d2f31fe28198931bde9efd943c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9c5ee267d1daf01078b52b1be6a9e1a6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b61e22a6aec89cc609f859e0a46bf056.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/d7630155cece8b9ce148c98d69653dce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/dd5bdf64856dec425ad81f0eb8b0d42c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e5a14300fa1044ea5c1907effb8776f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/server/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/server/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/e97846483806c2aabce2.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/f81ca0ca22bbbed81122.hot-update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0746efcc6a7bb56f389a16a8be68cb3d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/449d14e3969ed78a5fe2558c36e1f3b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/585bb1eec02756f52a311342b0597ea2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/6e021ae5659d0aeed0a1b170db6667f5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/cc3ec8b0913d02a122d7ffa381da2f14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/8b7b24c9abd8f667b23d024de2e5a895.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/8e29c6cec365a57466deae86f68269e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9f4f98c719c354db26ac330c60c68a6d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/a66443521c623eddfddee0b381a34d9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b34006d33b91985c2edf1c7fe1ca2888.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b6aa6ba63af1456643858c7c54a579df.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b8a258b24e51b28277f1b776bc86a885.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/c79114df1932267ef42d8f6b3b4cfff0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/c90fae6090a4fbb94880c0971bf15cb8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/cbf70648a823a81191d862fb92c7c6fd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/d27a21f997d95fe290ad154e181a8cef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e20f4dc48f09540df12af8a98547a998.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e3b7ee4551acf7146fc0bd6f29560b75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/ede3a25583c78a62de9ba5e4c68c0be3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +78,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="oss-user-auth-demo-ui" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -145,22 +188,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604589902250" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605020975919">
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom" timestamp="1605280497055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1605020975919">
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
+    <state width="1513" height="210" key="GridCell.Tab.0.center" timestamp="1605280497055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1605020975919">
+    <state width="1513" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
+    <state width="1513" height="210" key="GridCell.Tab.0.left" timestamp="1605280497054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1605020975919">
+    <state width="1513" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605280497054" />
+    <state width="1513" height="210" key="GridCell.Tab.0.right" timestamp="1605280497055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605020975919" />
+    <state width="1513" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
     <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605021233003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

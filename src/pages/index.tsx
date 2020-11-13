@@ -1,4 +1,4 @@
-import React, {FC} from "react";
+import React from "react";
 import Container from "react-bootstrap/Container";
 import fetch from "isomorphic-fetch";
 import Thoughts from "../components/Thoughts";

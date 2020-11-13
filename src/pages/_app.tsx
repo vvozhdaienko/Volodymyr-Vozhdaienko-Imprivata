@@ -28,7 +28,6 @@ class MyApp extends App <PageProps, PageState> {
     }
 
     render() {
-        console.log(this.state);
         const { Component, pageProps } = this.props;
 
         const props = {
