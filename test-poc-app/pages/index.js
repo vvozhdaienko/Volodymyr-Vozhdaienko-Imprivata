@@ -7,15 +7,35 @@ export default function Home({user}) {
     console.log('user', user);
     return (
       <div className={styles.main}>
-          <Link href="/api/login"><a>Login</a></Link>
-          <Link href="/api/logout"><a>Logout</a></Link>
-            <Link href="/users">
-                <a>
-                    <Button className={styles.showUsersBtn}>
-                        Show list of users
-                    </Button>
-                </a>
-            </Link>
+          { user ? (
+              <>
+                  <Link href="/api/logout">
+                      <a>
+                          <Button className={styles.logoutBtn}>
+                              Log Out
+                          </Button>
+                      </a>
+                  </Link>
+                  <Link href="/users">
+                      <a>
+                          <Button className={styles.showUsersBtn}>
+                              Show list of users
+                          </Button>
+                      </a>
+                 </Link>
+              </>
+              )
+              :
+              (
+                  <Link href="/api/login">
+                      <a>
+                          <Button className={styles.showUsersBtn}>
+                              Log In
+                          </Button>
+                      </a>
+                  </Link>
+              )
+          }
       </div >
-  )
+    )
 };
