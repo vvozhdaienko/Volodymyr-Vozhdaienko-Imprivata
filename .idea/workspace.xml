@@ -20,48 +20,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a965d4-c6f9-46a2-bdac-c99bc70b95f2" name="Default Changelist" comment="finish proj with passport and SAML">
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/030c0e3006af6159aacaccbe5be4b27c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/094eee3d8e1b955e8019c3ab2d31fa77.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0df76d2a61a1ce979d1fe3dff6e1a90c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/1b2c1b487f2bd75ed6fcc3b39db7be83.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/84c1644be18a5fdf66a6e718262356e1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/87d99d2f31fe28198931bde9efd943c2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9c5ee267d1daf01078b52b1be6a9e1a6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b61e22a6aec89cc609f859e0a46bf056.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/d7630155cece8b9ce148c98d69653dce.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/dd5bdf64856dec425ad81f0eb8b0d42c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e5a14300fa1044ea5c1907effb8776f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/server/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/server/pages/next/dist/pages/_error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/next/dist/pages/_error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/e97846483806c2aabce2.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/f81ca0ca22bbbed81122.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0eee2d6bcd4b3d8107b0777106b4e88f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/15453474bff46e7cfda2143fb10c2a75.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/259e62d7df0164073571f7a539d33071.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/31783fa74161d5508687df8d91f67db5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/4994bcae462164c245672f979fe8369c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/5674c0a9bda57a82bb2fae75f6562225.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/6b8de17da0a5b20ce7a400cd6b3fbcbd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/7229c99a5c8fa9a238321fb271d54517.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9c3a379e39ee0c343aa4f297336e7546.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9e954e569ce31fadffbbef7f9138b2ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/c908b9b726e6e2559a3d65653e5abb6c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e9fb5897eec4707df67e7a46d38115b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/server/pages/share-thought.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/share-thought.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/4c82ce6f045e9b521bf3.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/95b2d0974585e006c6d4.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/d360b4ead043c97df8bc.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.next/static/webpack/pages/profile.4c82ce6f045e9b521bf3.hot-update.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/0746efcc6a7bb56f389a16a8be68cb3d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/449d14e3969ed78a5fe2558c36e1f3b0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/585bb1eec02756f52a311342b0597ea2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/6e021ae5659d0aeed0a1b170db6667f5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/cc3ec8b0913d02a122d7ffa381da2f14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/8b7b24c9abd8f667b23d024de2e5a895.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/8e29c6cec365a57466deae86f68269e3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/9f4f98c719c354db26ac330c60c68a6d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/a66443521c623eddfddee0b381a34d9a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b34006d33b91985c2edf1c7fe1ca2888.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b6aa6ba63af1456643858c7c54a579df.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/b8a258b24e51b28277f1b776bc86a885.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/c79114df1932267ef42d8f6b3b4cfff0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/c90fae6090a4fbb94880c0971bf15cb8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/cbf70648a823a81191d862fb92c7c6fd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/d27a21f997d95fe290ad154e181a8cef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e20f4dc48f09540df12af8a98547a998.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/e3b7ee4551acf7146fc0bd6f29560b75.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.next/cache/next-babel-loader/ede3a25583c78a62de9ba5e4c68c0be3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/react-loadable-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/init-server.js.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/init-server.js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/on-error-server.js.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/on-error-server.js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/_error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/next/dist/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/pages/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/server/ssr-module-cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/server/ssr-module-cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/amp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/amp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/_error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/next/dist/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/pages/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/pages/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/polyfills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/polyfills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/react-refresh.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/react-refresh.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/chunks/webpack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/development/_buildManifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/webpack/535f5b823d68182c24ef.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.next/static/webpack/7e5751336985d7b38ec4.hot-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/.next/static/webpack/7e5751336985d7b38ec4.hot-update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +104,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\v.vozhdaienko\Desktop\VV-Imprivata\Volodymyr-Vozhdaienko-Imprivata\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -118,6 +123,7 @@
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +139,7 @@
       <workItem from="1604589874596" duration="29000" />
       <workItem from="1605003732227" duration="8203000" />
       <workItem from="1605019235620" duration="2059000" />
+      <workItem from="1605690893023" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="start work with passport and SAML">
       <created>1605018865286</created>
@@ -160,6 +167,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/interfaces/PropsUser.js" />
+        <option value="$PROJECT_DIR$/src/interfaces/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/_app.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -188,22 +202,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604589902250" />
-    <state width="1513" height="210" key="GridCell.Tab.0.bottom" timestamp="1605280497055">
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom" timestamp="1605609092439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
-    <state width="1513" height="210" key="GridCell.Tab.0.center" timestamp="1605280497055">
+    <state width="1513" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605609092439" />
+    <state width="1513" height="210" key="GridCell.Tab.0.center" timestamp="1605609092438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
-    <state width="1513" height="210" key="GridCell.Tab.0.left" timestamp="1605280497054">
+    <state width="1513" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605609092438" />
+    <state width="1513" height="210" key="GridCell.Tab.0.left" timestamp="1605609092438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605280497054" />
-    <state width="1513" height="210" key="GridCell.Tab.0.right" timestamp="1605280497055">
+    <state width="1513" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605609092438" />
+    <state width="1513" height="210" key="GridCell.Tab.0.right" timestamp="1605609092438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605280497055" />
+    <state width="1513" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605609092438" />
     <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605021233003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

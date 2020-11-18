@@ -10,11 +10,11 @@ const Picture = styled.img`
 
 const StyledContainer = styled.div`
       overflow: hidden;
-`;const StyledLi = styled.li`
+`;
+const StyledLi = styled.li`
       text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-}
 `;
 
 function Profile({ user }: PropsUser) {

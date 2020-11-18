@@ -16,6 +16,7 @@ class MyApp extends App <PageProps, PageState> {
         }
         if (ctx.req && ctx.req.session.passport) {
             pageProps.user = ctx.req.session.passport.user;
+            console.log(ctx.req.session.passport);
         }
         return { pageProps };
     }
